@@ -1,5 +1,5 @@
 # импортируем библиотеку streamlit
 import streamlit as st
 
-# выводим текст
-st.text("Привет, мир!")
+if st.button('Click me!'):
+    st.write('Hello, AI Student! :pig:')
