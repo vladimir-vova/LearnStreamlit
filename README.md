@@ -12,4 +12,4 @@ pip install --upgrade pip
 4. Установим фреймворк streamlit:
 pip install streamlit 
 5. Чтобы убедиться в корректности установки, запустим демо библиотеки:
-streamlit hell
+streamlit hello
